@@ -1,3 +1,7 @@
+### My latest conference talk
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O6GsAN9F0M?start=17650" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Read my latest blog posts!
 
 - [What You should Consider before Deploying an App with Code Splitting](https://dev.to/dimaip/what-you-should-consider-before-deploying-an-app-with-code-splitting-1n76)
