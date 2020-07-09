@@ -1,4 +1,9 @@
-### Hi there 👋
+### Read my latest blog posts!
+
+- [What You should Consider before Deploying an App with Code Splitting](https://dev.to/dimaip/what-you-should-consider-before-deploying-an-app-with-code-splitting-1n76)
+- [Getting a PWA to self-update](https://dev.to/dimaip/getting-a-pwa-to-self-update-19b9)
+
+[Want more?](https://dev.to/dimaip)
 
 <!--
 **dimaip/dimaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
