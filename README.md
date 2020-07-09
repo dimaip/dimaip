@@ -1,6 +1,6 @@
-### My latest conference talk
+### Watch my latest conference talk
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O6GsAN9F0M?start=17650" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [How not to mess up your first PWA](https://youtu.be/_O6GsAN9F0M?t=17650)
 
 ### Read my latest blog posts!
 
