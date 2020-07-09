@@ -2,7 +2,7 @@
 
 - [How not to mess up your first PWA](https://youtu.be/_O6GsAN9F0M?t=17650)
 
-### Read my latest blog posts!
+### Read my latest blog posts
 
 - [What You should Consider before Deploying an App with Code Splitting](https://dev.to/dimaip/what-you-should-consider-before-deploying-an-app-with-code-splitting-1n76)
 - [Getting a PWA to self-update](https://dev.to/dimaip/getting-a-pwa-to-self-update-19b9)
